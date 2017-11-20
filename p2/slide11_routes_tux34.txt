@@ -1,0 +1,6 @@
+tux34:~# route -n
+Kernel IP routing table
+Destination     Gateway         Genmask         Flags Metric Ref    Use Iface
+172.16.30.0     0.0.0.0         255.255.255.0   U     0      0        0 eth0
+172.16.31.0     0.0.0.0         255.255.255.0   U     0      0        0 eth1
+
